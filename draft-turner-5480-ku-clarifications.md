@@ -19,7 +19,7 @@ author:
     ins: T. Ito
     name: Tadahiko Ito
     organization: Secom Co., Ltd.
-    email: t_ito@hotmail.com
+    email: tadahiko.ito.public@gmail.com
  -
     ins: S. Turner
     name: Sean Turner
