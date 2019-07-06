@@ -1,7 +1,7 @@
 ---
 title:  Clarifications for Elliptic Curve Cryptogtaphy Subject Public Key Information
 abbrev: Clarifications for ECC SPKI
-docname: draft-ietf-turner-5480-ku-clarifications-latest
+docname: draft-turner-5480-ku-clarifications-latest
 date: {DATE}
 category: std
 updates: 5480
