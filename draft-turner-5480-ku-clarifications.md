@@ -62,17 +62,17 @@ Updates to Section 3
 =
 
 If the keyUsage extension is present in a certificate that indicates id-ecPublicKey as algorithm of AlgorithmIdentifier {{!RFC2986}} in SubjectPublicKeyInfo, then following values MUST NOT be present:
-~
+~~~
   keyEncipherment; and
   dataEncipherment.
-~
+~~~~
 
 If the keyUsage extension is present in a certificate that indicates id-ecDH or id-ecMQV in SubjectPublicKeyInfo, then the following values also MUST NOT be present:
 
-~
+~~~
   keyEncipherment; and
   dataEncipherment.
-~
+~~~
 
 Security Considerations
 =
