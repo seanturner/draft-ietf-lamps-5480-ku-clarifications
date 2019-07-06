@@ -67,13 +67,8 @@ keyEncipherment; and \
 dataEncipherment.
 
 
-If the keyUsage extension is present in a certificate that indicates id-ecDH or id-ecMQV in SubjectPublicKeyInfo, then the following values MUST NOT be present:
+If the keyUsage extension is present in a certificate that indicates id-ecDH or id-ecMQV in SubjectPublicKeyInfo, then the following values also MUST NOT be present:
 
-digitalSignature; \
-nonRepudiation; \
-keyTransport; \
-keyCertSign; \
-cRLSign; \
 keyEncipherment; and \
 dataEncipherment.
 
