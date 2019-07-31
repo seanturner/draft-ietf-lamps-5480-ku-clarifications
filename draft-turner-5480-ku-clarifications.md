@@ -46,8 +46,9 @@ Information field in certificates that support Elliptic Curve Cryptography.  As 
 of these semantics, it defines what combinations are permissible for the values
 of the key usage extensions {{!RFC5280}}.  {{RFC5480}} specifies  7 of the 9
 values; it makes no mention of keyEncipherment and dataEncipherment key
-usage bits.  This document corrects this omission, but updating Section 3 of
-{{RFC5480}} to include semantics for these two key usages.
+usage bits.  This document corrects this omission, by updating Section 3
+of {{RFC5480}} to make it clear that neither keyEncipherment nor the
+dataEncipherment key usage bits are set for key agreement algorithms.
 
 Terminology
 =
