@@ -2,9 +2,9 @@
 
 This is the working area for the individual Internet-Draft, "Clarifications for Elliptic Curve Cryptogtaphy Subject Public Key Information".
 
-* [Editor's Copy](https://seanturner.github.io/draft-turner-5480-ku-clarifications/#go.draft-turner-5480-ku-clarifications.html)
-* [Individual Draft](https://tools.ietf.org/html/draft-turner-5480-ku-clarifications)
-* [Compare Editor's Copy to Individual Draft](https://seanturner.github.io/draft-turner-5480-ku-clarifications/#go.draft-turner-5480-ku-clarifications.diff)
+* [Editor's Copy](https://lamps-wg.github.io/draft-ietf-lamps-5480-ku-clarifications/#go.draft-ietf-lamps-5480-ku-clarifications.html)
+* [WG Draft](https://tools.ietf.org/html/draft-ietf-lamps-5480-ku-clarifications)
+* [Compare Editor's Copy to Individual Draft](https://lamps-wg.github.io/draft-ietf-lamps-5480-ku-clarifications/#go.draft-ietf-lamps-5480-ku-clarifications.diff)
 
 ## Building the Draft
 
@@ -21,4 +21,4 @@ This requires that you have the necessary software installed.  See
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/seanturner/draft-turner-5480-ku-clarifications/blob/master/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/lamps-wg/draft-ietf-lamps-5480-ku-clarifications/blob/master/CONTRIBUTING.md).
