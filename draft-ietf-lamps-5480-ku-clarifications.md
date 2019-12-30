@@ -8,7 +8,7 @@ updates: 5480
 
 ipr: trust200902
 area: Security
-workgroup: TBD
+workgroup: WG
 keyword: Internet-Draft
 
 stand_alone: yes
