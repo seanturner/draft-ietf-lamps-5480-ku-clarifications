@@ -62,7 +62,7 @@ all capitals, as shown here.
 Updates to Section 3
 =
 
-If the keyUsage extension is present in a certificate that indicates id-ecPublicKey as algorithm of AlgorithmIdentifier {{!RFC2986}} in SubjectPublicKeyInfo, then following values MUST NOT be present:
+If the keyUsage extension is present in a certificate that indicates id-ecPublicKey in SubjectPublicKeyInfo, then following values MUST NOT be present:
 
 ~~~
   keyEncipherment; and
