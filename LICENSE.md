@@ -1,4 +1,4 @@
 # License
 
 See the
-[guidelines for contributions](https://github.com/seanturner/draft-turner-5480-ku-clarifications/blob/master/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/{GITHUB_USER}/{GITHUB_REPO}/blob/master/CONTRIBUTING.md).
